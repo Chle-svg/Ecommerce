@@ -1,2 +1,18 @@
-# Ecommerce
-This project is a fully functional eCommerce website built to provide users with a smooth and secure online shopping experience
+•	** Developer: Chlotaw Gedamu
+•	Email: chlotawgedamu@gmail.com
+•	Phone: 0933804482
+•	Common Issues
+Issue	Solution
+Can't login	Check credentials and session
+DB error	Ensure SQL file is imported properly
+Payment not working	Use valid Chapa test key and internet
+ 
+
+
+
+**Customer Verification should be done by accessing the database and changing its active status**
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
