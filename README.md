@@ -10,6 +10,10 @@ Payment not working	Use valid Chapa test key and internet
 
 
 
+
+**Database Name: ecommerceweb**
+
+
 **Customer Verification should be done by accessing the database and changing its active status**
 
 **Admin Login Details**
